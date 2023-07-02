@@ -2,7 +2,7 @@
 
 example of using discord slash commands
 
-
+## Screenshot
 ![App Screenshot](https://github.com/Teo-Gojkovic/Discord-slash-command-python/blob/main/images/discord_slash_command.png?raw=true)
 
 
